@@ -117,7 +117,7 @@ Edit the code above to check the following additional Requirements:
 - If the boss isn't looking, you can sneak in!
 - Riders with a park pass get in free.
 // Add solution
-[Solution]()
+[Solution](/solution.js)
 
 ### Ternary Operator
 You can think about the ternary operator as a concise "if-else in one line":
@@ -206,4 +206,4 @@ if(joke.isFunny === 'yes'){
   stareBlankly();
 };
 ```
-[Solution]()
+[Solution](/solution.js)
