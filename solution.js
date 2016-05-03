@@ -62,7 +62,7 @@ if (!isLooking){
   };
 };
 
-Riders with a park pass get in free.
+// Riders with a park pass get in free.
 
 var tokens = 3; // Jimmy's tokens
 var height;   // Jimmy's height in feet
