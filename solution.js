@@ -110,3 +110,19 @@ if (!bossIsLooking) {
 } else {
     console.log("Sorry, not enough tokens.")
 };
+
+
+// -------------------------------------
+
+// joke conditional refectored using switch
+switch (joke.isFunny) {
+  case "yes":
+    laugh();
+    break;
+  case "sort of":
+    chortle();
+    break;
+  case "no":
+    stareBlankly();
+    break;
+};
