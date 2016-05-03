@@ -8,8 +8,7 @@ Market: SF
 
 ## Why is this important?
 
-*"Control flow" refers to the way our computers move through a program's code. Understanding control flow allows us to trace the flow of a program based on its code. This skill is essential for programming in every language and paradigm. In particular, **conditionals** and **loops** are fundamental to understanding modern programming languages.
-*
+*"Control flow" refers to the way our computers move through a program's code. Understanding control flow allows us to trace the flow of a program based on its code. This skill is essential for programming in every language and paradigm. In particular, **conditionals** and **loops** are fundamental to understanding modern programming languages.*
 
 ## What are the objectives?
 *After this workshop, developers will be able to:*
@@ -197,5 +196,13 @@ console.log("Is there anything else you'd like?");
 ```
 
 ### Exercise
-Refactor our 'Can I Ride?' `function` using a `switch` statement!
-[Solution]() //todo add solution
+Refactor the following conditional using a `switch` statement!
+```javascript
+if(joke.isFunny === 'yes'){
+  laugh();
+} else if (joke.isFunny === 'sort of'){
+  chortle();
+} else if (joke.isFunny === 'no'){
+  stareBlankly();
+};
+```
