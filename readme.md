@@ -206,3 +206,4 @@ if(joke.isFunny === 'yes'){
   stareBlankly();
 };
 ```
+[Solution]()
