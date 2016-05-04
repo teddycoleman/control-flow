@@ -22,9 +22,9 @@ Market: SF
 - create basic `for` loops
 
 ## Thruthiness vs Falsiness
-*In programming something that **evaluates** to True is said to be truthy.*
+*In programming something that* **evaluates** *to True is said to be truthy.*
 
-*Something that **evaluates** to False is said to be falsy.*
+*Something that* **evaluates** *to False is said to be falsy.*
 
 Most things in JavaScript are *truthy*. In fact,
 only the following become false when converted to a Boolean
@@ -36,7 +36,7 @@ only the following become false when converted to a Boolean
 - `null`
 - `undefined`
 
-*Everything else in JavaScript is **truthy**!*
+*Everything else in JavaScript is* **truthy** *!*
 
 You can tell if something is truthy or not by prepending it with `!!` and running it in the console.
 Why!?
@@ -90,7 +90,7 @@ if(isRaining){
 };
 ```
 
-That doesn't mean you should nest so deep! More than two layers of `if / else` statemenst is probably a bad idea.
+That doesn't mean you should nest so deep! More than two layers of `if / else` statement is probably a bad idea.
 
 ### Exercise
 #### Can I ride?
