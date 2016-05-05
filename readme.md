@@ -116,7 +116,6 @@ Edit the code above to check the following additional Requirements:
 - Replace the previous rule: now riders under 12 must be accompanied by an adult.
 - If the boss isn't looking, you can sneak in!
 - Riders with a park pass get in free.
-// Add solution
 [Solution](/solution.js)
 
 ### Ternary Operator
