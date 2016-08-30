@@ -12,7 +12,7 @@ Market: SF
 
 ## What are the objectives?
 *After this workshop, developers will be able to:*
-- Identify and discuss boolean operators and truthyness
+- Identify and discuss boolean operators and truthiness
 - Use nested `if` statements, ternary operators, and `while` loops
 - Use the `break` keyword and `switch` statements.
 
